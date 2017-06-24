@@ -1,103 +1,125 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
-public class Winecraft
+class Winecraft
 {
-    static List<int> grapes;
-    public static void Main()
+    static int[] grapes;
+    static void Main()
     {
-        grapes = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
-        int roundLength = int.Parse(Console.ReadLine());
+        grapes = Console.ReadLine()
+            .Split(new char[] { ' ' }, 
+                   StringSplitOptions.RemoveEmptyEntries)
+            .Select(int.Parse)
+            .ToArray();
+
+        int n = int.Parse(Console.ReadLine());
 
         do
         {
-            for (int cnt = 0; cnt < roundLength; ++cnt)
+            for (int cnt = 0; cnt < n; cnt++)
             {
-                for (int index = 0; index < grapes.Count; ++index)
+                BloomGrapes();
+            }
+
+            KillGrapesWithPowerLesserOrEqualTo(n);
+        } while (StrongGrapesAreGreaterOrEqualThan(n));
+
+
+        PrintLiveGrapes();
+    }
+
+    static bool StrongGrapesAreGreaterOrEqualThan(int threshold)
+    {
+        return grapes
+            .Where(e => e > threshold)
+            .Count() >= threshold;
+    }
+
+    static void BloomGrapes()
+    {
+        for (int index = 0; index < grapes.Length; index++)
+        {
+            if (!IsAlive(index))
+            {
+                continue;
+            }
+
+            if (IsGreaterGrape(index))
+            {
+                grapes[index]++;
+                if (IsAlive(index - 1))
                 {
-                    if (!IsAlive(index))
-                    {
-                        continue;
-                    }
+                    grapes[index]++;
+                    grapes[index - 1]--;
+                }
 
-                    if (IsGreaterGrape(index))
-                    {
-                        if (IsAlive(index - 1))
-                        {
-                            grapes[index]++;
-                            grapes[index - 1]--;
-                        }
-
-                        if (IsAlive(index + 1))
-                        {
-                            grapes[index]++;
-                            grapes[index + 1]--;
-                        }
-
-                        grapes[index]++;
-                    }
-                    else if (IsGreaterGrape(index - 1) || IsGreaterGrape(index + 1))
-                    {
-                        // do nothing. Lesser grape
-                    }
-                    else
-                    {
-                        // Normal grape
-                        grapes[index]++;
-                    }
+                if (IsAlive(index + 1))
+                {
+                    grapes[index]++;
+                    grapes[index + 1]--;
                 }
             }
-
-            RemoveWeakGrapes(roundLength);
-        } while (HasMoreStrongGrapesThan(roundLength));
-
-        Console.WriteLine(string.Join(" ", grapes.Where(g => g > 0).ToArray()));
-    }
-
-    static bool HasMoreStrongGrapesThan(int threshold)
-    {
-        return grapes.Where(g => g > threshold).Count() >= threshold;
-    }
-
-    static void RemoveWeakGrapes(int threshold)
-    {
-        for (int index = 0; index < grapes.Count; ++index)
-        {
-            if (grapes[index] <= threshold)
+            else if (IsLesserGrape(index))
             {
-                grapes[index] = 0;
+                // do nothing
+            }
+            else
+            {
+                // Normal Grape
+                grapes[index]++;
             }
         }
     }
 
-    static bool IsAlive(int index)
+    static void KillGrapesWithPowerLesserOrEqualTo(int threshold)
     {
-        if (index < 0 || index >= grapes.Count)
+        for (int cnt = 0; cnt < grapes.Length; cnt++)
         {
-            return false;
+            if (grapes[cnt] <= threshold)
+            {
+                grapes[cnt] = 0;
+            }
+        }
+    }
+
+    static void PrintLiveGrapes()
+    {
+        for (int index = 0; index < grapes.Length; index++)
+        {
+            if (IsAlive(index))
+            {
+                Console.Write(grapes[index] + " ");
+            }
         }
 
-        if (grapes[index] > 0)
-        {
-            return true;
-        }
-
-        return false;
+        Console.WriteLine();
     }
 
     static bool IsGreaterGrape(int index)
     {
-        if ((index <= 0) || (index >= grapes.Count - 1))
+        if (index <= 0 || index >= (grapes.Length - 1))
         {
             return false;
         }
 
-        if (grapes[index] > grapes[index - 1] && grapes[index] > grapes[index + 1])
+        return (grapes[index] > grapes[index - 1] &&
+                grapes[index] > grapes[index + 1]);
+    }
+
+    static bool IsLesserGrape(int index)
+    {
+        return (IsGreaterGrape(index - 1) ||
+                IsGreaterGrape(index + 1));
+    }
+
+    static bool IsAlive(int index)
+    {
+        if (index < 0 || index >= grapes.Length)
         {
-            return true;
+            return false;
         }
 
-        return false;
+        return grapes[index] > 0;
     }
 }
