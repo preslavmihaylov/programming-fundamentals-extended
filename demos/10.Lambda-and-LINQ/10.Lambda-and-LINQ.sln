@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FlattenDictionary", "05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CottageScrapper", "06.CottageScrapper\06.CottageScrapper.csproj", "{230D7724-AD66-4101-93DC-A1655089E7B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FlattenDictionary-SecondSolution", "05.FlattenDictionary-SecondSolution\05.FlattenDictionary-SecondSolution.csproj", "{54C62AA5-33A5-429C-9254-3DE923FBFA33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{230D7724-AD66-4101-93DC-A1655089E7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{230D7724-AD66-4101-93DC-A1655089E7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{230D7724-AD66-4101-93DC-A1655089E7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C62AA5-33A5-429C-9254-3DE923FBFA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C62AA5-33A5-429C-9254-3DE923FBFA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C62AA5-33A5-429C-9254-3DE923FBFA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C62AA5-33A5-429C-9254-3DE923FBFA33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
