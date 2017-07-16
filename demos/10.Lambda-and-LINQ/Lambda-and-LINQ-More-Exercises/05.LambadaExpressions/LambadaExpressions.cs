@@ -1,64 +1,75 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
-namespace _05.LambadaExpressions
+class LambadaExpressions
 {
-    class LambadaExpressions
+    static void Main()
     {
-        static void Main()
+        var data =
+            new Dictionary<string, Dictionary<string, string>>();
+
+        string input = Console.ReadLine();
+        while (input != "lambada")
         {
-            var data =
-                new Dictionary<string, Dictionary<string, string>>();
+            string[] inputTokens = input
+                .Split(new string[] { " => ", "." },
+                       StringSplitOptions.RemoveEmptyEntries);
 
-            string input = Console.ReadLine();
-            while (input != "lambada")
+            if (inputTokens[0] == "dance")
             {
-                string[] inputTokens = input
-                    .Split(new string[] { " => ", "." },
-                    StringSplitOptions.RemoveEmptyEntries);
+                /*
+                data = data
+                    .ToDictionary(selectorData => selectorData.Key,
+                                  selectorData => selectorData.Value
+                                      .ToDictionary(selectorObjectData => selectorObjectData.Key,
+                                                    selectorObjectData => selectorObjectData.Key + "." + selectorObjectData.Value)); 
+                 */
 
-                if (inputTokens[0] != "dance")
+                var selectors = data.Keys.ToList();
+
+                foreach (var selector in selectors)
                 {
-                    string selector = inputTokens[0];
-                    string selectorObject = inputTokens[1];
-                    string selectorProperty = inputTokens[2];
-
-                    if (!data.ContainsKey(selector))
+                    var selectorObjects = data[selector].Keys.ToList();
+                    foreach (var selectorObject in selectorObjects)
                     {
-                        data.Add(selector, new Dictionary<string, string>());
+                        data[selector][selectorObject] = 
+                            selectorObject + "." + data[selector][selectorObject];
                     }
-                    
-                    data[selector][selectorObject] = selectorProperty;
                 }
-                else
-                {
-                    data = data
-                        .ToDictionary(selector => selector.Key,
-                                      selector => selector.Value
-                                        .ToDictionary(selectorObject => selectorObject.Key,
-                                                      selectorObject => 
-                                                          (selectorObject.Key + "." + selectorObject.Value)));
-                }
-
-                input = Console.ReadLine();
             }
-
-            foreach (var selectorData in data)
+            else
             {
-                string selector = selectorData.Key;
-                Dictionary<string, string> selectorObjectsData = selectorData.Value;
+                string selector = inputTokens[0];
+                string selectorObject = inputTokens[1];
+                string selectorProperty = inputTokens[2];
 
-                foreach (var selectorObjectData in selectorObjectsData)
+                if (!data.ContainsKey(selector))
                 {
-                    string selectorObject = selectorObjectData.Key;
-                    string selectorProperty = selectorObjectData.Value;
-                    Console.WriteLine("{0} => {1}.{2}", 
-                        selector,
-                        selectorObject,
-                        selectorProperty);
+                    data.Add(selector, new Dictionary<string, string>());
                 }
+
+                data[selector][selectorObject] = selectorProperty;
             }
+            
+            input = Console.ReadLine();
         }
+
+        foreach (var selectorData in data)
+	    {
+            string selector = selectorData.Key;
+            var selectorObjectsData = selectorData.Value;
+            foreach (var selectorObjectData in selectorObjectsData)
+	        {
+		        string selectorObject = selectorObjectData.Key;
+                string property = selectorObjectData.Value;
+
+                Console.WriteLine("{0} => {1}.{2}",
+                    selector,
+                    selectorObject,
+                    property);
+	        }
+
+	    }
     }
 }
