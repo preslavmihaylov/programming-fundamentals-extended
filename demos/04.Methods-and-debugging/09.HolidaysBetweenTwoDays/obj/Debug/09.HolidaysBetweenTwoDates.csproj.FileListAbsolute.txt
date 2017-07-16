@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\09.HolidaysBetweenTwoDays\bin\Debug\09.HolidaysBetweenTwoDays.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\09.HolidaysBetweenTwoDays\bin\Debug\09.HolidaysBetweenTwoDays.pdb
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\09.HolidaysBetweenTwoDays\obj\Debug\09.HolidaysBetweenTwoDays.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\09.HolidaysBetweenTwoDays\obj\Debug\09.HolidaysBetweenTwoDays.pdb

@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.pdb
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.pdb

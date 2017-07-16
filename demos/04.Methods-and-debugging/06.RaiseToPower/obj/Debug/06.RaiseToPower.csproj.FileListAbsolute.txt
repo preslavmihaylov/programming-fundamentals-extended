@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\06.RaiseToPower\bin\Debug\06.RaiseToPower.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\06.RaiseToPower\bin\Debug\06.RaiseToPower.pdb
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\06.RaiseToPower\obj\Debug\06.RaiseToPower.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\06.RaiseToPower\obj\Debug\06.RaiseToPower.pdb

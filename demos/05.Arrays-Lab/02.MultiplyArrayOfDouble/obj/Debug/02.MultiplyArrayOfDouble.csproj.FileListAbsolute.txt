@@ -1,0 +1,5 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\02.MultiplyArrayOfDouble\bin\Debug\02.MultiplyArrayOfDouble.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\02.MultiplyArrayOfDouble\bin\Debug\02.MultiplyArrayOfDouble.pdb
+D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.pdb

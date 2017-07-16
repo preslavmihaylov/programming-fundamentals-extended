@@ -1,0 +1,1 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe.config

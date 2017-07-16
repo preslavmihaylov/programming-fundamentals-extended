@@ -1,0 +1,6 @@
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\bin\Debug\LiveDemo.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\bin\Debug\LiveDemo.exe.config
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\obj\Debug\LiveDemo.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\obj\Debug\LiveDemo.pdb
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\obj\Debug\LiveDemo.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\LiveDemo\bin\Debug\LiveDemo.pdb

@@ -1,0 +1,5 @@
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\05.FlattenDictionary\bin\Debug\05.FlattenDictionary.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\05.FlattenDictionary\bin\Debug\05.FlattenDictionary.pdb
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.csprojResolveAssemblyReference.cache
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\05.FlattenDictionary\obj\Debug\05.FlattenDictionary.pdb

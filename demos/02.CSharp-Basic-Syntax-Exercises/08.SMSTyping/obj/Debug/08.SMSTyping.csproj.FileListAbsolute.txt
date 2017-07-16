@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\08.SMSTyping\bin\Debug\08.SMSTyping.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\08.SMSTyping\bin\Debug\08.SMSTyping.pdb
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\08.SMSTyping\obj\Debug\08.SMSTyping.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\08.SMSTyping\obj\Debug\08.SMSTyping.pdb

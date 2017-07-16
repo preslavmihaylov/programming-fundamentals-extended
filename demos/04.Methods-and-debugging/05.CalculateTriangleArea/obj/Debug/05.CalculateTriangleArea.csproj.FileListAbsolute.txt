@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.pdb
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.pdb

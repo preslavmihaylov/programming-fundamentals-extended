@@ -1,0 +1,6 @@
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\bin\Debug\01.ArrayData.exe.config
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\obj\Debug\01.ArrayData.csprojResolveAssemblyReference.cache
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\bin\Debug\01.ArrayData.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\bin\Debug\01.ArrayData.pdb
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\obj\Debug\01.ArrayData.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\01.ArrayData\obj\Debug\01.ArrayData.pdb

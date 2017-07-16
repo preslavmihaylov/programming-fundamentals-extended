@@ -1,0 +1,5 @@
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\06.Wardrobe\bin\Debug\06.Wardrobe.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\06.Wardrobe\bin\Debug\06.Wardrobe.pdb
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\06.Wardrobe\obj\Debug\06.Wardrobe.csprojResolveAssemblyReference.cache
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\06.Wardrobe\obj\Debug\06.Wardrobe.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\06.Wardrobe\obj\Debug\06.Wardrobe.pdb

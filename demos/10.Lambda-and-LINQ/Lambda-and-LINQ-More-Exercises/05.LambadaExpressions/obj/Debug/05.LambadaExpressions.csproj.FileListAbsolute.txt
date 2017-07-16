@@ -1,0 +1,4 @@
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\05.LambadaExpressions\bin\Debug\05.LambadaExpressions.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\05.LambadaExpressions\bin\Debug\05.LambadaExpressions.pdb
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\05.LambadaExpressions\obj\Debug\05.LambadaExpressions.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\05.LambadaExpressions\obj\Debug\05.LambadaExpressions.pdb

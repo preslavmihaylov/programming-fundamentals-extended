@@ -1,0 +1,4 @@
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\02.VaporStore\obj\Debug\02.VaporStore.pdb

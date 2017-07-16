@@ -1,0 +1,5 @@
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\01.Blank-receipt\bin\Debug\01.Blank-receipt.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\01.Blank-receipt\bin\Debug\01.Blank-receipt.pdb
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\01.Blank-receipt\obj\Debug\01.Blank-receipt.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\01.Blank-receipt\obj\Debug\01.Blank-receipt.exe
+D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\01.Blank-receipt\obj\Debug\01.Blank-receipt.pdb

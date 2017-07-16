@@ -1,0 +1,5 @@
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\01.RegisteredUsers\bin\Debug\01.RegisteredUsers.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\01.RegisteredUsers\bin\Debug\01.RegisteredUsers.pdb
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\01.RegisteredUsers\obj\Debug\01.RegisteredUsers.csprojResolveAssemblyReference.cache
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\01.RegisteredUsers\obj\Debug\01.RegisteredUsers.exe
+E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\01.RegisteredUsers\obj\Debug\01.RegisteredUsers.pdb
