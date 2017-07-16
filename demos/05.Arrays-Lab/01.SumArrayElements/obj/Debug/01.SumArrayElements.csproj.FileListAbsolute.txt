@@ -1,1 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\demos\Arrays\01.SumArrayElements\bin\Debug\01.SumArrayElements.exe.config

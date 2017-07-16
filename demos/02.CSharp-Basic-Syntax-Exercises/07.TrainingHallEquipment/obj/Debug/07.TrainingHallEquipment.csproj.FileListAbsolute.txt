@@ -1,4 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.pdb
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.pdb

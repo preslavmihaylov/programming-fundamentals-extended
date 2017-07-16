@@ -1,5 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.pdb
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.csprojResolveAssemblyReference.cache
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.pdb

@@ -1,5 +1,0 @@
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\02.Dict-Ref-Advanced\bin\Debug\02.Dict-Ref-Advanced.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\02.Dict-Ref-Advanced\bin\Debug\02.Dict-Ref-Advanced.pdb
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.pdb

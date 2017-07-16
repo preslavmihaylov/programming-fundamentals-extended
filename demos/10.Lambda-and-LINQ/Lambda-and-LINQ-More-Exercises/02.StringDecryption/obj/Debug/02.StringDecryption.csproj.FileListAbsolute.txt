@@ -1,4 +1,0 @@
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\02.StringDecryption\bin\Debug\02.StringDecryption.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\02.StringDecryption\bin\Debug\02.StringDecryption.pdb
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\02.StringDecryption\obj\Debug\02.StringDecryption.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\10.Lambda-and-LINQ\10.Lambda-and-LINQ-More-Exercises\02.StringDecryption\obj\Debug\02.StringDecryption.pdb

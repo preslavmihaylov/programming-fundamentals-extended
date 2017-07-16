@@ -1,4 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\04.DrawFilledSquare\bin\Debug\04.DrawFilledSquare.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\04.DrawFilledSquare\bin\Debug\04.DrawFilledSquare.pdb
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\04.DrawFilledSquare\obj\Debug\04.DrawFilledSquare.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\04.DrawFilledSquare\obj\Debug\04.DrawFilledSquare.pdb

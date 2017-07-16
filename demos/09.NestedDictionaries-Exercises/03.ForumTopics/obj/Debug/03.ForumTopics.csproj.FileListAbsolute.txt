@@ -1,5 +1,0 @@
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\03.ForumTopics\bin\Debug\03.ForumTopics.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\03.ForumTopics\bin\Debug\03.ForumTopics.pdb
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\03.ForumTopics\obj\Debug\03.ForumTopics.csprojResolveAssemblyReference.cache
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\03.ForumTopics\obj\Debug\03.ForumTopics.exe
-E:\Programming\repositories\courses\programming-fundamentals-extended\demos\09.NestedDictionaries-Exercises\03.ForumTopics\obj\Debug\03.ForumTopics.pdb

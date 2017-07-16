@@ -1,4 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\03.PrintTriangle\bin\Debug\03.PrintTriangle.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\03.PrintTriangle\bin\Debug\03.PrintTriangle.pdb
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\03.PrintTriangle\obj\Debug\03.PrintTriangle.exe
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\03.PrintTriangle\obj\Debug\03.PrintTriangle.pdb

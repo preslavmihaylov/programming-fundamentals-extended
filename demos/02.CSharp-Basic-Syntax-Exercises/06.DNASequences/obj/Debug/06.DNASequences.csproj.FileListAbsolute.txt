@@ -1,4 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\06.DNASequences\bin\Debug\06.DNASequences.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\06.DNASequences\bin\Debug\06.DNASequences.pdb
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\06.DNASequences\obj\Debug\06.DNASequences.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\06.DNASequences\obj\Debug\06.DNASequences.pdb

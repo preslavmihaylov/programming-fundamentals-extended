@@ -1,1 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\demos\Methods-and-debugging\02.SignOfSignedNumber\bin\Debug\02.SignOfSignedNumber.exe.config

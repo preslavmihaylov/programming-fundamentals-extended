@@ -1,4 +1,0 @@
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
-D:\Programming\lectures\programming-fundamentals-2017\CSharp-Basic-Syntax-Exercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb
