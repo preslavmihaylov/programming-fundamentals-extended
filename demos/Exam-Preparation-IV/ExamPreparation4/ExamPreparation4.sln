@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SweetDessert", "01.SweetDessert\01.SweetDessert.csproj", "{22FC9B2D-E800-4631-8160-DF493CB1569C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArrayManipulator", "02.ArrayManipulator\02.ArrayManipulator.csproj", "{98C43B96-A630-478C-AB81-3253D5723C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FootballLeague", "03.FootballLeague\03.FootballLeague.csproj", "{3377AAA9-66BC-49E6-A42B-94EA3A59CAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CubicMessages", "04.CubicMessages\04.CubicMessages.csproj", "{B78F39E3-E122-450A-AF86-AF3A61069E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FC9B2D-E800-4631-8160-DF493CB1569C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC9B2D-E800-4631-8160-DF493CB1569C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC9B2D-E800-4631-8160-DF493CB1569C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC9B2D-E800-4631-8160-DF493CB1569C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C43B96-A630-478C-AB81-3253D5723C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C43B96-A630-478C-AB81-3253D5723C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C43B96-A630-478C-AB81-3253D5723C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C43B96-A630-478C-AB81-3253D5723C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3377AAA9-66BC-49E6-A42B-94EA3A59CAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3377AAA9-66BC-49E6-A42B-94EA3A59CAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3377AAA9-66BC-49E6-A42B-94EA3A59CAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3377AAA9-66BC-49E6-A42B-94EA3A59CAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78F39E3-E122-450A-AF86-AF3A61069E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78F39E3-E122-450A-AF86-AF3A61069E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78F39E3-E122-450A-AF86-AF3A61069E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78F39E3-E122-450A-AF86-AF3A61069E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
